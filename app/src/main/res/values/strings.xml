@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuikrAssign</string>
+    <string name="noconnection">Kindly connect to a WIFI network or enable Mobile Data</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="estate">
+        <item>NITH</item>
+        <item>NIT</item>
+        <item>NITA</item>
+        <item>NITG</item>
+        <item>MNIT</item>
+        <item>Others</item>
+
+    </string-array>
+
+    <string-array name="category">
+        <item>BOOK</item>
+        <item>DRAFTER</item>
+        <item>ELECTRONICS</item>
+        <item>NOTES</item>
+        <item>Video Lectures</item>
+        <item>Others</item>
+    </string-array>
+</resources>
